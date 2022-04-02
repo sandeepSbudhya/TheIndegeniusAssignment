@@ -28,7 +28,7 @@ Example:
 
 ### 5. Create 'urls.txt' in the urls subfolder and add all the links of the articles (each link in a new line)
 
-Cloning the repo comes with the first 100 news article links in the url.txt file of the url folder
+Cloning the repo comes with the first 100 news article links in the url.txt file of the url folder.
 
 ### 6. Use the run script to run the program
 
