@@ -1,8 +1,13 @@
 
 # Instructions to run:
 
+### 1. Clone the repository
 
-### 1. Create a virtual environment
+
+    git clone https://github.com/sandeepSbudhya/TheIndegeniusAssignment.git
+   
+   
+### 2. Create a virtual environment
 
 
 Create a virtual environment using any tool.
@@ -10,10 +15,7 @@ Example:
 
 
     pipenv shell
-### 2. Clone the repository
 
-
-    git clone https://github.com/sandeepSbudhya/TheIndegeniusAssignment.git
 
 
 ### 3. Install the required packages
