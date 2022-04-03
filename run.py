@@ -15,6 +15,6 @@ def main(command):
 if __name__ == "__main__":
     if(len(sys.argv) == 2):
         main(sys.argv[1])
-        print('\n \t Analysis Complete \n')
+        print('\n \t Complete \n')
     else:
         print("\n \t Usage:run.py command(command being scrape or analyse) \n")
