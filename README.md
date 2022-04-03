@@ -7,7 +7,7 @@
     git clone https://github.com/sandeepSbudhya/TheIndegeniusAssignment.git
    
    
-### 2. Create a virtual environment
+### 2. Create a virtual environment in the directory
 
 
 Create a virtual environment using any tool.
